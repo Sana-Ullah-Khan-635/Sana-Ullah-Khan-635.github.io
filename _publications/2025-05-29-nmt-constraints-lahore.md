@@ -6,9 +6,7 @@ permalink: /publication/2025-05-29-nmt-constraints-lahore
 excerpt: 'This paper assesses the barriers and challenges faced in the use of non-motorized transport in Lahore, Pakistan, using empirical data and policy analysis to identify key constraints and recommendations for improvement.'
 date: 2025-05-29
 venue: 'Case Studies on Transport Policy (Special Issue of Green public transport systems: Planning, operation, and control)'
-slidesurl: ''
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S2213624X25001403?via%3Dihub'
-bibtexurl: ''
 citation: 'Aziz, A., Nadeem, M., Khan, M. U., & Ito, F. (2025). Assessment of constraints in use of non-motorized transport in Lahore. Case Studies on Transport Policy, 101503.'
 ---
 
