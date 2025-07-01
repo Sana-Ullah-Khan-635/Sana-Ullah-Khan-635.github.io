@@ -9,9 +9,10 @@ venue: 'Case Studies on Transport Policy (Special Issue)'
 slidesurl: ''
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S2213624X25001403?via%3Dihub'
 bibtexurl: ''
-citation: 'Aziz, A., Nadeem, M., Khan, M. U., & Ito, F. (2025). "Assessment of constraints in use of non-motorized transport in Lahore." <i>Case Studies on Transport Policy</i>, Special Issue, 101503. https://doi.org/10.1016/j.cstp.2024.101503'
+citation: 'Aziz, A., Nadeem, M., Khan, M. U., & Ito, F. (2025). Assessment of constraints in use of non-motorized transport in Lahore. Case Studies on Transport Policy, 101503.'
 ---
 
-This paper presents an in-depth assessment of the constraints and barriers affecting non-motorized transport (NMT) usage in Lahore, Pakistan. Through a combination of empirical survey data, stakeholder interviews, and policy review, the study highlights the major physical, social, and institutional obstacles to the adoption of NMT, especially walking and cycling. Recommendations for improving infrastructure, governance, and public acceptance are discussed to promote sustainable urban mobility in South Asian cities.
+Abstract
+A balanced infrastructure for both motorized and non-motorized transportation is one of the challenges for urban mobility in Lahore. With minimal consideration for non-motorized transport, most of Lahore’s road infrastructure has been designed for motorized transportation. Urban road networks are under stress due to the unrelenting plying of motor vehicles, which causes congestion for most of the day. The research explores existing barriers and difficulties that impact the utilization of non-motorized transport for sustainable urban mobility. Reliability analysis was applied to validate the response of households and experts. Regression Analysis was used to identify paramount constraints for the smooth operation of non-motorized transport. The paper recommends policy measures for rationalization and smooth operation of non-motorized transport in Lahore.
 
 *If you wish to read the full article, access it [here](https://www.sciencedirect.com/science/article/pii/S2213624X25001403?via%3Dihub).*
