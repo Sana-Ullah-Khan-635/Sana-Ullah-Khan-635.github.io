@@ -1,51 +1,49 @@
 ---
-permalink: /
-title: "Khan M Sana Ullah | Urban Planner | Policy Researcher | MEXT Scholar"
+layout: single
+title: "About Me"
+permalink: /about/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
-About Me
-========
+## Khan M Sana Ullah
 
-I am Khan M Sana Ullah, an urban planner and policy researcher currently pursuing my Master’s in Urban Science and Policy at Tokyo Metropolitan University (TMU), Tokyo, Japan, as a MEXT Scholar. My research and practice center around sustainable urban development, mobility systems, spatiotemporal big data analysis, GIS, and evidence-based policy reform.
+**Urban Planner | Policy Researcher | MEXT Scholar**  
+Tokyo Metropolitan University (TMU), Japan
 
-My journey into urban planning began with a deep curiosity about how cities can become more equitable, resilient, and livable. Through hands-on experience in both international development and local urban projects, I have seen first-hand how data-driven approaches can transform urban policy and everyday life. My mission is to bridge the gap between rigorous research and practical solutions for contemporary urban challenges.
-
-🎓 Academic Foundation
-
-I hold a Bachelor’s degree in City and Regional Planning from UET Lahore, where I graduated as a double Gold Medalist and received the Best Research Thesis Award. Building on this foundation, I am currently deepening my expertise in urban policy science, community-oriented planning, and advanced data analytics at TMU, Tokyo.
-
-💡 Skills and Methods
-
-My core skills include:
-- Urban Mobility & Spatiotemporal Analysis
-- GIS & Geospatial Data Science
-- Python Programming & Data Analytics
-- Quantitative & Qualitative Research
-- Sustainable Urban Design
-- Policy Analysis & Evidence-Based Planning
-
-I am experienced with statistical modeling (SPSS, VOSviewer), geospatial platforms (ArcGIS), and developing visualizations and models to support policy decisions and urban planning interventions.
-
-🧪 Research and Professional Experience
-
-Previously, I served as a Project Officer (Urban Planning) at The Urban Unit and as a Junior Urban Planner at Tractebel (ADB-funded city master planning). My work has involved spatial master planning, stakeholder engagement, and leading research on topics such as green roofs, non-motorized transport, and urban housing.
-
-As a researcher, I have published in international journals including *Case Studies on Transport Policy* and *Nature-Based Solutions*, focusing on topics like non-motorized transport constraints, green infrastructure, and the use of big data for urban mobility analysis.
-
-📍 Current Research
-
-At TMU, my research explores spatiotemporal dynamics of bicycle sharing services, land use, and urban accessibility in Tokyo. I employ Python, GIS, and advanced data science tools to uncover trends and generate actionable insights for city policymakers.
-
-🎯 Future Aspirations
-
-My vision is to help shape cities that are inclusive, walkable, and responsive to both environmental and social needs. I am committed to advancing data-driven urbanism, integrating community perspectives, and contributing to global knowledge on sustainable urban development.
-
-Driven by curiosity and a passion for impact, I am always open to collaboration and dialogue on innovative approaches for better cities.
+**Contact:**  
+- Location: Hachioji, Tokyo, Japan  
+- Email: khan-ullah1@ed.tmu.ac.jp  
+- [LinkedIn](https://www.linkedin.com/in/m-sana-ullah-khan-b34385187/)  
+- [GitHub](https://github.com/Sana-Ullah-Khan-635)  
 
 ---
 
-*Feel free to connect with me for research collaborations or professional projects in urban planning, mobility, or policy analytics.*
+I am a passionate urban planner and policy researcher, currently pursuing my Master’s in Urban Science and Policy at Tokyo Metropolitan University (TMU) as a MEXT Scholar. My work focuses on sustainable urban development, urban mobility, big data analytics, GIS, and community-oriented planning. I am a double Gold Medalist and recipient of the Best Research Thesis Award from UET Lahore, with experience in both international development and local urban projects.
+
+**Research Focus:**  
+- Urban Mobility & Community Development  
+- Spatiotemporal Big Data Analysis  
+- Urban Policy Science & Participatory Planning  
+- Urban Environmental Planning  
+- Python, GIS, and Data Science for Smart Cities
+
+**Education:**  
+- Master’s in Urban Science and Policy, TMU, Japan (2024–2026)  
+- Research Student, Urban Science and Policy, TMU, Japan (2022–2024)  
+- Bachelor’s in City and Regional Planning, UET Lahore, Pakistan (2017–2021)  
+  - Double Gold Medalist, Best Thesis Award
+
+**Professional Experience:**  
+- Project Officer, Urban Planning – The Urban Unit (2021–2022)  
+- Jnr. Urban Planner – Tractebal (2021)
+
+**Selected Publications:**  
+- Aziz, A., Nadeem, M., Khan, M. U., & Ito, F. (2025). Assessment of constraints in use of non-motorized transport in Lahore. *Case Studies on Transport Policy*, Special Issue, 101503. [[Read Paper](https://www.sciencedirect.com/science/article/pii/S2213624X25001403?via%3Dihub)]
+
+---
+
+*Gold Medalist, UET Lahore.  
+Best Research Thesis Award.  
+Active in student associations and sports clubs at TMU.*
+
+Feel free to connect for academic collaborations or urban innovation projects!
