@@ -39,7 +39,7 @@ author:
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=59509725300"
 
   # Repositories and software development
-  github           : "https://sana-ullah-khan-635.github.io/"
+  github           : ""
 
   # Social media
   bluesky          : "bsky.app" # Replace this with you Bluesky username
